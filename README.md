@@ -1,1 +1,2 @@
 Multiton pattern
+Description: Multiton pattern lets you ensure that a class has only fixed number of instances. The instances created in excess of fixed number will have references to originaly created instnaces.
